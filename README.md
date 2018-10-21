@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Mumu here, I like networks.
+Nice to meet you.
